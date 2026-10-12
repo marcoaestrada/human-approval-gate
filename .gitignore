@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+# the log can contain real names, addresses and message texts: keep it out of the repository
+approvals.jsonl
+*.jsonl.lock
+.env
+.env.*
